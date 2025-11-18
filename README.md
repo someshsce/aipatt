@@ -6,6 +6,9 @@
 
 A versatile terminal-based AI Powered Assistant Tool.
 
+<img width="1920" height="1440" alt="AIPATT" src="https://github.com/user-attachments/assets/eb54e0c3-6ce5-4b8b-9078-8a6d1af4a3ee" />
+
+
 [View Demo](https://github.com/someshsce/aipatt) · [Report Bug](https://github.com/someshsce/aipatt/issues/new?labels=bug&template=bug-report---.md) · [Request Feature](https://github.com/someshsce/aipatt/issues/new?labels=enhancement&template=feature-request---.md)
 
 </div>
